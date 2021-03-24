@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+POSInv
+</name>
+</assembly>
+<members>
+<member name="P:POSInv.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources._007_bulleye">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources._022_copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources._054_maximize">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources._059_minus">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources._076_remove">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.admin">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.anggota">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.anggota1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.buku1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.cari_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.cari_buku1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.cari_buku2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.cari_buku3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.cashier">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.circle">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.circle__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.circle__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.data_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.images__1__removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.kategori_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lainnya">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lap_data_master">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lap_data_master1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lap_denda">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lap_denda1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lap_peminjaman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.lap_peminjaman1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.laporan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.logo_TOSERDAS_BARU_JPEG_removebg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.logo_TOSERDAS_BARU_JPEG_removebg1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.peminjaman">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.peminjaman1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.pie_chart_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.rak_buku">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.rak_buku1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.rak_buku2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.search_engine">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.tentang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:POSInv.My.Resources.Resources.transaksi">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:POSInv.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.forecastingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.hargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.itemDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.forecasting1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.forecastingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.hargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.itemRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.forecasting1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.forecastingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.hargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.itemRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet.forecasting1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POSInv.PeramalanDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.forecastingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.hargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.itemTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.forecasting1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(POSInv.PeramalanDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(POSInv.PeramalanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(POSInv.PeramalanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.UpdateAll(POSInv.PeramalanDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:POSInv.PeramalanDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:POSInv.DataSet1.barangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:POSInv.DataSet1.barangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:POSInv.DataSet1.barangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:POSInv.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:POSInv.DataSet1TableAdapters.barangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:POSInv.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(POSInv.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:POSInv.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(POSInv.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:POSInv.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(POSInv.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:POSInv.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:POSInv.DataSet1TableAdapters.TableAdapterManager.UpdateAll(POSInv.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:POSInv.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:POSInv.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:POSInv.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

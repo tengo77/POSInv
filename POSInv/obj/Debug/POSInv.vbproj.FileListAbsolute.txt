@@ -1,0 +1,167 @@
+E:\Skripshit\POSInv\POSInv\POSInv\bin\Debug\POSInv.exe.config
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FItem.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FJumlah.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.Main.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.Resources.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.vbproj.GenerateResource.Cache
+E:\Skripshit\POSInv\POSInv\POSInv\bin\Debug\POSInv.exe
+E:\Skripshit\POSInv\POSInv\POSInv\bin\Debug\POSInv.pdb
+E:\Skripshit\POSInv\POSInv\POSInv\bin\Debug\POSInv.xml
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.exe
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.xml
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.pdb
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FLogin.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FForecast.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FMain.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FGrafik.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FKaryawan.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FLStaff.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FUser.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FLPelanggan.resources
+E:\Skripshit\POSInv\POSInv\POSInv\obj\Debug\POSInv.FPelanggan.resources
+F:\POS\POSInv\POSInv\bin\Debug\POSInv.exe.config
+F:\POS\POSInv\POSInv\bin\Debug\POSInv.exe
+F:\POS\POSInv\POSInv\bin\Debug\POSInv.pdb
+F:\POS\POSInv\POSInv\bin\Debug\POSInv.xml
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.vbprojAssemblyReference.cache
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLPelanggan.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FPelanggan.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FGrafik.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FKaryawan.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLogin.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FForecast.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FItem.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FJumlah.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLStaff.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FMain.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FUser.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.Resources.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.vbproj.GenerateResource.cache
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.vbproj.CoreCompileInputs.cache
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.exe
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.xml
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.pdb
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FBarang.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLBarang.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FPOS.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FBayar.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FReceipt.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FRamal.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FForecastt.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FHapus.resources
+F:\POS\POSInv\POSInv\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\POS\POSInv\POSInv\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\POS\POSInv\POSInv\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\POS\POSInv\POSInv\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.vbproj.CopyComplete
+F:\POS\POSInv\POSInv\bin\Debug\AxShockwaveFlashObjects.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.Shared.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\POS\POSInv\POSInv\bin\Debug\ShockwaveFlashObjects.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\POS\POSInv\POSInv\bin\Debug\stdole.dll
+F:\POS\POSInv\POSInv\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLapFore.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLapInv.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLapInvoice.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLapBarang.resources
+F:\POS\POSInv\POSInv\bin\Debug\CrystalReport1.rpt
+F:\POS\POSInv\POSInv\bin\Debug\CrystalReport1.vb
+F:\POS\POSInv\POSInv\bin\Debug\Barang.rpt
+F:\POS\POSInv\POSInv\bin\Debug\Barang.vb
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FLapBar.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.LapRamal.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.FStockOut.resources
+F:\POS\POSInv\POSInv\obj\Debug\POSInv.tes.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\POSInv.exe.config
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.exe
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.xml
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.pdb
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\Barang.rpt
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\CrystalReport1.rpt
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\Barang.vb
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\CrystalReport1.vb
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\POSInv.exe
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\POSInv.pdb
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\POSInv.xml
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FBarang.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FBayar.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FForecastt.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FHapus.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapBar.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapBarang.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapFore.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapInv.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapInvoice.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLBarang.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLPelanggan.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FPelanggan.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FGrafik.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FKaryawan.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLogin.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FForecast.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FItem.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FJumlah.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLStaff.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FMain.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FPOS.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FRamal.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FReceipt.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FStockOut.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FUser.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.LapRamal.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.Resources.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.tes.resources
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.vbproj.GenerateResource.Cache
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\DummyRamal.rpt
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\DummyRamal.vb
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\POSInv.exe.manifest
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\bin\Debug\POSInv.application
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.exe.manifest
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.application
+E:\_Sidang\Ujian\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.vbprojResolveAssemblyReference.cache
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.vbprojAssemblyReference.cache
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FBarang.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FBayar.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FForecastt.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FHapus.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapBar.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapBarang.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapFore.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapInv.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLapInvoice.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLBarang.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLPelanggan.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FPelanggan.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FGrafik.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FKaryawan.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLogin.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FForecast.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FItem.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FJumlah.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FLStaff.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FMain.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FPOS.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FRamal.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FReceipt.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FStockOut.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.FUser.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.LapRamal.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.Resources.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.tes.resources
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.vbproj.GenerateResource.cache
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.exe
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.xml
+F:\_Laporan Bakar\@Aturan Pengumpulan Makalah _PERPUS\@Aturan Pengumpulan Makalah _PERPUS\16.4.00053_SKRIPSI_YUSUF MAULANA OKTORI\Autorun\PROGRAM\POS_Inv\POSInv\POSInv\obj\Debug\POSInv.pdb
